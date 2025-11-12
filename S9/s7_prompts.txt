@@ -1,0 +1,15 @@
+Hazme un ejercicio en Python que sea fácil de entender y hacer, dividido en tres partes. 
+Primero, que haya un archivo
+con funciones para trabajar con una lista de precios,
+como sacar el precio más alto, el más bajo y el promedio,
+y otro archivo que use esas funciones para mostrar 
+los resultados. Segundo, que mejoremos ese código para que 
+no se rompa si alguien se equivoca al poner los datos,
+que use alguna forma de controlar errores y que 
+podamos probar un par de ejemplos donde algo falle pero el programa
+siga funcionando. Y tercero, que elijamos un módulo de Python
+que venga con el programa y otro que haya que instalar, 
+expliquemos para qué sirve cada uno y pongamos un ejemplo 
+fácil de cómo usarlos. Todo esto que sea lo más simple
+posible, con palabras claras y ejemplos que se puedan 
+entender sin ser expertos en programación.

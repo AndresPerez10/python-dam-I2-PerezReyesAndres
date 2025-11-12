@@ -1,0 +1,10 @@
+1. Generame un codigo facil y sencillo en el que se cree 
+una estructura con varios registros.
+Cada registro tiene que ser un diccionario con al menos tres
+campos que conforme una situacion practica.
+Tiene que tener las funciones de: añadir registros, buscar registro por campo, calcular una estadistica(media,maximo etc)
+Controlar errores: duplicados, vacios, tipos incorrectos.
+
+2. Le he pasado copia y pega del código y le he puesto:
+Analiza que errores tiene este código y contrala los errores de entrada
+y division por cero o cualquier otro. Hazlo facil y simple y teniendo de base el código que te he pasado.
