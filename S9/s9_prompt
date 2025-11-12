@@ -1,0 +1,9 @@
+Hazme un programita en Python que sea un generador de personajes de videojuegos.
+Que sea fácil de entender y usar. Tiene que tener al menos tres funciones
+que hagan cosas como crear un personaje, mostrar sus datos 
+y mejorar sus habilidades. Además, que tenga control de 
+errores con try/except, por si alguien pone un nombre vacío o 
+datos que no sirven. Que use algún módulo de Python que ya venga con 
+el programa, como random, para generar fuerza, vida o habilidades de 
+manera aleatoria. Todo el código tiene que estar bien comentado, legible y 
+sencillo.
