@@ -1,0 +1,3 @@
+1. Generame un codigo facil y simple usando un diccionario de una tienda en que se debe insertar, modificar y eliminar registros, Calcular al menos 
+una metrica, usar un bucle for para recorrer las claves y valores. 
+
